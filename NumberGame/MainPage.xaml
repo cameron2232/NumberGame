@@ -32,7 +32,8 @@
             <Button 
                 Grid.Row="2" Grid.Column="1" 
                 Text="Play" 
-                VerticalOptions="Center" 
+                VerticalOptions="Center"
+                Clicked ="OnPlay"
             />
 
 
